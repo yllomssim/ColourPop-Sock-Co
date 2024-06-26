@@ -1,7 +1,7 @@
 https://colourpop-sock-co.netlify.app/
 
 
-**Welcome to Colour Pop Sock Co.!** 🐄🐑
+**Welcome to Colour Pop Sock Co.!** 🧦💥
 
 Colour Pop Sock Co. using Vue.js for Web Development class, 2023.
 
